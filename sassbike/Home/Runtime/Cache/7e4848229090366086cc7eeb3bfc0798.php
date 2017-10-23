@@ -120,7 +120,7 @@
 			<div class="row">
 			    <div class="col-md-4">
 			    	<div class="specialty-1-img">
-			    		<img src="__PUBLIC__/imgs/img4">
+			    		<img src="__PUBLIC__/imgs/img4.jpg">
 			    	</div>
 			    	<h3>特色一</h3>
 			      	<p class="specialty-intro">
@@ -129,7 +129,7 @@
 			    </div>
 			    <div class="col-md-4">
 			      	<div class="specialty-1-img">
-			    		<img src="__PUBLIC__/imgs/img5">
+			    		<img src="__PUBLIC__/imgs/img5.jpg">
 			    	</div>
 			    	<h3>特色二</h3>
 			      	<p class="specialty-intro">
@@ -138,7 +138,7 @@
 			    </div>
 			    <div class="col-md-4">
 			      	<div class="specialty-1-img">
-			    		<img src="__PUBLIC__/imgs/img6">
+			    		<img src="__PUBLIC__/imgs/img6.jpg">
 			    	</div>
 			    	<h3>特色三</h3>
 			      	<p class="specialty-intro">
